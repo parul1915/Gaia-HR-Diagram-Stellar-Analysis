@@ -4,3 +4,22 @@ Construction and analysis of a Hertzsprung–Russell diagram using Gaia DR3 stel
 ![HR Diagram](hr%20diagram.png)
 ## Gaia HR report
 [Gaia HR Report](Gaia%20HR%20Report.pdf)
+## Code
+
+The analysis code is available in the Jupyter notebook:
+
+`hr_diagram_analysis.ipynb`
+
+## Tools Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Gaia DR3 dataset
+
+## Author
+
+Parul Dwivedi  
+B.Sc. Mathematics (Physics & Computer Science)  
+Banasthali Vidyapith
