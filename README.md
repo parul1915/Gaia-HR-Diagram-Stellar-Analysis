@@ -8,7 +8,7 @@ Construction and analysis of a Hertzsprung–Russell diagram using Gaia DR3 stel
 
 The analysis code is available in the Jupyter notebook:
 
-`hr_diagram_analysis.ipynb`
+[Open the analysis notebook](hr_diagram_analysis.ipynb)
 
 ## Tools Used
 
