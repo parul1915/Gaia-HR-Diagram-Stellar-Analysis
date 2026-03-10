@@ -3,4 +3,4 @@ Construction and analysis of a Hertzsprung–Russell diagram using Gaia DR3 stel
 ## HR Diagram
 ![HR Diagram](hr%20diagram.png)
 ## Gaia HR report
-![Gaia HR Report](Gaia%20HR%20Report.pdf)
+[Gaia HR Report](Gaia%20HR%20Report.pdf)
